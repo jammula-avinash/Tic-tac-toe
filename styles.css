@@ -3,13 +3,13 @@ body {
   justify-content: center;
   align-items: center;
   height: 100vh;
-  background-color: #f8f9fa;
+  background-color: whitesmoke;
 }
 
 #gameBoard {
   width: 300px;
   height: 300px;
-  border: 2px solid #343a40;
+  border: 2px solid black;
 }
 
 #gameBoard div {
@@ -19,7 +19,7 @@ body {
   justify-content: center;
   align-items: center;
   font-size: 2em;
-  border: 1px solid #343a40;
+  border: 1px solid green;
   cursor: pointer;
 }
 
